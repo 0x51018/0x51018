@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 윤형진 in SASA
-- 👀 I’m interested in python and 3D modeling
+- 👀 I’m interested in ?
 - 🌱 I’m currently learning python and blender
 - 💞️ I’m looking to collaborate on ... ?
 - 📫 How to reach me ... younhj1018@sasa.hs.kr
