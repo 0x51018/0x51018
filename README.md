@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 윤형진 in HYU.
+- 👋 Hi, I’m 윤형진 in HYU CSE.
 - 👀 I’m interested in ?
 - 🌱 I’m currently learning python, js, c++.
 - 💞️ I’m looking to collaborate on ... ?
