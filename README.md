@@ -1,8 +1,8 @@
-- 👋 Hi, I’m 윤형진 in SASA
+- 👋 Hi, I’m 윤형진 in HYU.
 - 👀 I’m interested in ?
-- 🌱 I’m currently learning python and blender
+- 🌱 I’m currently learning python, js, c++.
 - 💞️ I’m looking to collaborate on ... ?
-- 📫 How to reach me ... younhj1018@sasa.hs.kr
+- 📫 How to reach me ... younhj1018@hanyang.ac.kr
 
 <!---
 0x51018/0x51018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
