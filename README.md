@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 윤형진 in HYU CSE.
+- 👋 Hi, I’m 윤형진 in HYU CSE 24, (SASA 7th).
 - 👀 I’m interested in ?
 - 🌱 I’m currently learning python, js, c++.
 - 💞️ I’m looking to collaborate on ... ?
