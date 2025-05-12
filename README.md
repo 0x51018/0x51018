@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m <b>HyoungJin Youn (0x51018)</b></h1>
-<h3 align="center">🎓 BSc Computer Science, Hanyang University (Class of ’24) | SASA 7th Cohort</h3>
+<h3 align="center">🎓 Computer Science Undergraduate at Hanyang University (Class of ’24) | SASA 7th Cohort</h3>
 
 <p align="center">
   <a href="https://github.com/0x51018">
@@ -35,22 +35,17 @@
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
 </p>
 
 ## 🌱 Currently Learning
-- Advanced OpenGL & Real-Time Rendering  
-- Deep Reinforcement Learning (DQN, PPO)  
-- WebAssembly & Performance Optimization  
-- VR Interaction Design  
+- Basic OpenGL & Real-Time Rendering  
+- Reinforcement Learning & Deep Learning
 
 ## 🤝 Collaboration
 - Open to AI, Graphics, Game Dev & VR projects  
