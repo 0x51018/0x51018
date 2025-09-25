@@ -5,6 +5,7 @@
   <a href="https://github.com/0x51018">
     <img src="https://github-readme-stats.vercel.app/api?username=0x51018&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
   </a>
+  <br>
   <a href="https://github.com/0x51018">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x51018&layout=compact&theme=dark&locale=en" alt="Top Languages" />
   </a>
@@ -14,9 +15,11 @@
   <a href="https://solved.ac/yhj1018/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhj1018" alt="solved.ac Badge" />
   </a>
+  <br>
   <a href="https://github.com/0x51018">
     <img src="https://github-profile-trophy.vercel.app/?username=0x51018&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
   </a>
+  <br>
   <a href="https://github.com/0x51018">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x51018&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
@@ -24,11 +27,9 @@
 
 ---
 
-## 🔭 Fields of Interest
-- Computer Graphics  
-- Artificial Intelligence & Reinforcement Learning  
-- Game Development  
-- Virtual Reality (VR)  
+## 🔭 Current Interests
+- Machine Learning & Deep Learning
+- Full-stack Web Development
 
 ## 💻 Languages & Technologies
 <p>
@@ -38,19 +39,9 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
 </p>
-
-## 🌱 Currently Learning
-- Basic OpenGL & Real-Time Rendering  
-- Reinforcement Learning & Deep Learning
-
-## 🤝 Collaboration
-- Open to AI, Graphics, Game Dev & VR projects  
-- Research implementations & technical writing  
-- Code reviews & open-source contributions  
 
 ## 📫 Contact
 - ✉️ younhj1018@hanyang.ac.kr  
