@@ -9,19 +9,9 @@
   <a href="https://github.com/0x51018">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x51018&layout=compact&theme=dark&locale=en" alt="Top Languages" />
   </a>
-</p>
-
-<p align="center">
+  <br>
   <a href="https://solved.ac/yhj1018/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhj1018" alt="solved.ac Badge" />
-  </a>
-  <br>
-  <a href="https://github.com/0x51018">
-    <img src="https://github-profile-trophy.vercel.app/?username=0x51018&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
-  </a>
-  <br>
-  <a href="https://github.com/0x51018">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x51018&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
