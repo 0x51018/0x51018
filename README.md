@@ -2,14 +2,6 @@
 <h3 align="center">🎓 Computer Science Undergraduate at Hanyang University (Class of ’24) | SASA 7th Cohort</h3>
 
 <p align="center">
-  <a href="https://github.com/0x51018">
-    <img src="https://github-readme-stats.vercel.app/api?username=0x51018&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-  </a>
-  <br>
-  <a href="https://github.com/0x51018">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x51018&layout=compact&theme=dark&locale=en" alt="Top Languages" />
-  </a>
-  <br>
   <a href="https://solved.ac/yhj1018/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhj1018" alt="solved.ac Badge" />
   </a>
@@ -20,6 +12,7 @@
 ## 🔭 Current Interests
 - Machine Learning & Deep Learning
 - Full-stack Web Development
+- RL & LLM Quantization/RAG
 
 ## 💻 Languages & Technologies
 <p>
